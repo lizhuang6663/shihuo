@@ -1,0 +1,93 @@
+{
+  "id": "4170868",
+  "name": "iconfont",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1349980",
+      "name": "生活用品",
+      "font_class": "shenghuoyongpin",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "3784259",
+      "name": "生活用品",
+      "font_class": "shenghuoyongpin1",
+      "unicode": "e6ab",
+      "unicode_decimal": 59051
+    },
+    {
+      "icon_id": "5924502",
+      "name": "生活用品",
+      "font_class": "shenghuoyongpin2",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "6122246",
+      "name": "积分商城-生活用品",
+      "font_class": "jifenshangcheng-shenghuoyongpin",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "6217348",
+      "name": "生活用品",
+      "font_class": "shenghuoyongpin3",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "6464413",
+      "name": "生活用品",
+      "font_class": "shenghuoyongpin4",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8082786",
+      "name": "生活用品",
+      "font_class": "shenghuoyongpin5",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "8400524",
+      "name": "生活用品",
+      "font_class": "shenghuoyongpin6",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "9354851",
+      "name": "生活用品",
+      "font_class": "shenghuoyongpin7",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "9714475",
+      "name": "生活用品",
+      "font_class": "shenghuoyongpin8",
+      "unicode": "e728",
+      "unicode_decimal": 59176
+    },
+    {
+      "icon_id": "10289824",
+      "name": "生活用品",
+      "font_class": "shenghuoyongpin9",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "12977430",
+      "name": "生活用品",
+      "font_class": "shenghuoyongpin10",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    }
+  ]
+}

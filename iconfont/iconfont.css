@@ -1,0 +1,63 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4170868 */
+  src: url('iconfont.woff2?t=1690301400265') format('woff2'),
+       url('iconfont.woff?t=1690301400265') format('woff'),
+       url('iconfont.ttf?t=1690301400265') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-shenghuoyongpin:before {
+  content: "\e62d";
+}
+
+.icon-shenghuoyongpin1:before {
+  content: "\e6ab";
+}
+
+.icon-shenghuoyongpin2:before {
+  content: "\e62f";
+}
+
+.icon-jifenshangcheng-shenghuoyongpin:before {
+  content: "\e678";
+}
+
+.icon-shenghuoyongpin3:before {
+  content: "\e60e";
+}
+
+.icon-shenghuoyongpin4:before {
+  content: "\e600";
+}
+
+.icon-shenghuoyongpin5:before {
+  content: "\e63f";
+}
+
+.icon-shenghuoyongpin6:before {
+  content: "\e628";
+}
+
+.icon-shenghuoyongpin7:before {
+  content: "\e615";
+}
+
+.icon-shenghuoyongpin8:before {
+  content: "\e728";
+}
+
+.icon-shenghuoyongpin9:before {
+  content: "\e658";
+}
+
+.icon-shenghuoyongpin10:before {
+  content: "\e610";
+}
+

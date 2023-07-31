@@ -1,0 +1,62 @@
+* {
+    /* 清除所有标签默认的内外边距 */
+    margin: 0;
+    padding: 0;
+    /* 添加box-sizing: border-box; 后,盒子模型的大小只与 width 有关，
+        而不是 width + passding + border */
+    box-sizing: border-box;
+}
+/* 清除li的小圆点和序号 */
+li {
+    list-style: none;
+}
+
+/* 清除链接的下划线 */
+a {
+    text-decoration: none;
+    color: gray;
+}
+
+/* 去掉按钮和表单的默认边框(去除 点击表单会出现蓝色边框) */
+input {
+    border: 0;
+    outline: none;
+}
+img {
+    /* 照顾低版本浏览器，如果图片外面包含了链接会有边框的问题 */
+    border: 0;
+    /* 取消图片底侧有空白缝隙的问题 */
+    vertical-align: middle;
+}
+
+@font-face {
+    font-family: 'icomoon';
+    src: url('../fonts/icomoon.eot?69yx54');
+    src: url('../fonts/icomoon.eot?69yx54#iefix') format('embedded-opentype'),
+        url('../fonts/icomoon.ttf?69yx54') format('truetype'),
+        url('../fonts/icomoon.woff?69yx54') format('woff'),
+        url('../fonts/icomoon.svg?69yx54#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+
+
+
+
+
+/* 一些通用的代码 */
+body {
+    background-color: rgb(241, 241, 241);
+}
+
+.w {
+    width: 1080px;
+    margin: 0 auto;
+}
+
+/* 当鼠标移动到上面时，盒子出现阴影 */
+.boxShadow:hover {
+    box-shadow: 0 0 10px 0 gray;
+}
